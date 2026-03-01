@@ -63,3 +63,6 @@ A.サポートやアップデートは終了する考えです。
 ダウンロードプラグイン
 ・ffmpeg
 ・yt-dlp
+
+ダウンロード(Googledrive)
+https://drive.google.com/file/d/1TaLm5lIVH84Z77vIoa-OyGV2eQH7qlqJ/view?usp=sharing
